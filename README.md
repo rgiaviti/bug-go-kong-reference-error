@@ -1,5 +1,5 @@
 # Go-Kong Bug 
-This is a sample Go project to simulate a detected bug in go-kong v0.28.0.
+This is a sample Go project to simulate a detected bug in go-kong v0.28.0. Issue opened [here](https://github.com/Kong/go-kong/issues/137)
 
 ## When the bug happens
 When we try to validate a plugin schema using [go-kong](https://github.com/Kong/go-kong) and the target kong is offline 
